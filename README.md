@@ -1,16 +1,27 @@
-# how_can_i_go_app
+#Proje Adı: How Can I Go 
 
-A new Flutter project.
+ 
 
-## Getting Started
+##1. Proje Tanıtımı 
 
-This project is a starting point for a Flutter application.
+Proje Hedefi: Arama yapılan adresin haritalarda gösterilmesi ve mevcut konumdan istenilen adrese nasıl gidileceğinin bir rotasının oluşturulması 
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Paketler 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+google_maps_flutter 
+
+http 
+
+flutter_riverpod 
+
+location 
+
+flutter_polyline_points  
+
+google_fonts 
+
+
+https://github.com/orcunsaatcii/how_can_i_go_app/assets/116540911/e52536ed-223e-4521-8c35-642e66035223
+
